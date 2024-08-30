@@ -1,0 +1,40 @@
+.color-visualizer {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    text-align: left;
+    margin-bottom: 10px;
+  }
+  
+  .color-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .color-block {
+    padding: 20px;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: left;
+  }
+  
+  .color-block span {
+    font-size: 14px;
+  }
+  
+  .selected-color {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    color: #fff;
+  }
+  
+  .selected-color h3 {
+    margin: 0;
+  }
+  
