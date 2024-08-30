@@ -10,9 +10,10 @@ const colors = {
     400: '#60a87f',
     500: '#66c18f',// f99d1c
     600: '#42845d',//darker green
-    700: '#60a87f',//button outline
-    800: '#02294F',
-    900: '#02294F',
+    700: '#42845d',//button outline
+    800: '#042F04',
+    900: '#021D02',
+  
   },
   secondary: {
     50: "#F9F0FF",
